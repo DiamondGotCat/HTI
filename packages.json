@@ -1,0 +1,17 @@
+{
+  "packages": {
+    "pterm": {
+      "name": "pterm",
+      "description": "Python Terminal",
+      "main_url": "https://kamu.jp/files/pterm/pterm",
+      "versions": {
+        "1.0.0": {
+          "url": "https://kamu.jp/files/pterm/pterm",
+          "type": "binary",
+          "platforms": ["macOS"]
+        }
+      },
+      "uninstall_url": "none"
+    }
+  }
+}
