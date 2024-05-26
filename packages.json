@@ -10,8 +10,7 @@
           "type": "binary",
           "platforms": ["macOS"]
         }
-      },
-      "uninstall_url": "none"
+      }
     }
   }
 }
