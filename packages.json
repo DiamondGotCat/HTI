@@ -1,5 +1,19 @@
 {
   "packages": {
+
+    "hti-salad": {
+      "name": "Salad",
+      "description": "Allows installation from other repositories.",
+      "main_url": "https://diamondgotcat.github.io/HTI/salad.py",
+      "versions": {
+        "1.0.0": {
+          "url": "https://diamondgotcat.github.io/HTI/salad.py",
+          "type": "python",
+          "platforms": ["darwin","linux","windows"]
+        }
+      }
+    },
+    
     "pterm": {
       "name": "pterm",
       "description": "Python Terminal",
@@ -12,6 +26,7 @@
         }
       }
     }
+    
   }
 }
 
