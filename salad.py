@@ -5,7 +5,7 @@ import platform
 import requests
 
 GITHUB_USER = input("Creator: ")
-GITHUB_REPO_URL = 'https://' + GITHUB_USER + '.github.io/HTI/packages.json'
+GITHUB_REPO_URL = 'https://' + GITHUB_USER + '.github.io/Custom-HTI/packages.json'
 
 ColorCodes = {
 
