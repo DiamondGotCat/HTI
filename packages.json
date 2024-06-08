@@ -22,7 +22,7 @@
         "1.0.0": {
           "url": "https://kamu.jp/files/pterm/pterm",
           "type": "binary",
-          "platforms": ["darwin"]
+          "platforms": ["darwin","linux"]
         }
       }
     }
