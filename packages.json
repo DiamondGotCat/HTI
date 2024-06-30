@@ -27,7 +27,7 @@
       }
     },
 
-    "pterm": {
+    "deb-poppack": {
       "name": "Debian Popular Pack",
       "description": "Install popular Debian packages",
       "main_url": "https://raw.githubusercontent.com/DiamondGotCat/Ubuntu-Popular-Packages-Install/main/install.py",
