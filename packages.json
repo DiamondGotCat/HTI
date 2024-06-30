@@ -25,6 +25,19 @@
           "platforms": ["darwin","linux"]
         }
       }
+    },
+
+    "pterm": {
+      "name": "Debian Popular Pack",
+      "description": "Install popular Debian packages",
+      "main_url": "https://raw.githubusercontent.com/DiamondGotCat/Ubuntu-Popular-Packages-Install/main/install.py",
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/DiamondGotCat/Ubuntu-Popular-Packages-Install/main/install.py",
+          "type": "python",
+          "platforms": ["linux"]
+        }
+      }
     }
     
   }
