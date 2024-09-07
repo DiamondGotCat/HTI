@@ -9,7 +9,7 @@
         "1.0.0": {
           "url": "https://diamondgotcat.github.io/MathConsole/install.py",
           "type": "python",
-          "platforms": ["darwin","linux","windows"]
+          "platforms": ["darwin","linux"]
         }
       }
     },
@@ -22,7 +22,7 @@
         "1.0.0": {
           "url": "https://diamondgotcat.github.io/Tester-for-MathConsole/install.py",
           "type": "python",
-          "platforms": ["darwin","linux","windows"]
+          "platforms": ["darwin","linux"]
         }
       }
     },
