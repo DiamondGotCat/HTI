@@ -1,6 +1,19 @@
 {
   "packages": {
 
+    "mathconsole": {
+      "name": "MathConsole",
+      "description": "Python Interpreter for Mathematics",
+      "main_url": "https://diamondgotcat.github.io/MathConsole/install.py",
+      "versions": {
+        "1.0.0": {
+          "url": "https://diamondgotcat.github.io/MathConsole/install.py",
+          "type": "python",
+          "platforms": ["darwin","linux","windows"]
+        }
+      }
+    },
+
     "mathc-tester": {
       "name": "Tester for MathConsole",
       "description": "Test Plugin",
